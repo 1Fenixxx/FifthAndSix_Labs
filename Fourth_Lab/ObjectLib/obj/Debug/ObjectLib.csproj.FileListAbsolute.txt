@@ -1,0 +1,11 @@
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fourth_Lab\ObjectLib\bin\Debug\ObjectLib.dll
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fourth_Lab\ObjectLib\bin\Debug\ObjectLib.pdb
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fourth_Lab\ObjectLib\obj\Debug\ObjectLib.csprojAssemblyReference.cache
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fourth_Lab\ObjectLib\obj\Debug\ObjectLib.csproj.CoreCompileInputs.cache
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fourth_Lab\ObjectLib\obj\Debug\ObjectLib.dll
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fourth_Lab\ObjectLib\obj\Debug\ObjectLib.pdb
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fifth_Lab\Fourth_Lab\ObjectLib\bin\Debug\ObjectLib.dll
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fifth_Lab\Fourth_Lab\ObjectLib\bin\Debug\ObjectLib.pdb
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fifth_Lab\Fourth_Lab\ObjectLib\obj\Debug\ObjectLib.csproj.CoreCompileInputs.cache
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fifth_Lab\Fourth_Lab\ObjectLib\obj\Debug\ObjectLib.dll
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Fifth_Lab\Fourth_Lab\ObjectLib\obj\Debug\ObjectLib.pdb
